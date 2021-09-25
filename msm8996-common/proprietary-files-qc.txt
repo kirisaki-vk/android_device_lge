@@ -291,8 +291,8 @@ vendor/lib64/librs_adreno_sha1.so|13dc11654b454d5d5ebe5583765811e4fa11ba4a
 vendor/lib64/libRSDriver_adreno.so|d1a6c079de14a665fa73cc217c46977ef84c08aa
 
 # Graphics (Vulkan) - from taimen RP1A.201005.004
-vendor/lib/hw/vulkan.msm8996.so|6df3aa5c6badc46bc7a0367b9a62b0ab5b406159
-vendor/lib64/hw/vulkan.msm8996.so|f0cf8bccfcfd0473a2c0322b1274dc4d752f2abb
+lib/vulkan.msm8996.so
+lib64/vulkan.msm8996.so
 
 # Graphics - HDR
 vendor/lib/libhdr_tm.so
